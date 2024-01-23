@@ -10,7 +10,6 @@ The application is an Engineering team html page builder; the user can quickly c
   - [Table Of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Links](#links)
   - [Questions](#questions)
 
   
@@ -23,11 +22,6 @@ Install packages from npm with “npm install fs –save” and  “npm install 
 
 The application is called using the following command: “node index.js”
 
-
-## Links
-
-- [https://github.com/zbayazitoglu/EngineeringTeam](https://github.com/zbayazitoglu/EngineeringTeam)
-  
 ## Questions
 
 Any question please contact:
